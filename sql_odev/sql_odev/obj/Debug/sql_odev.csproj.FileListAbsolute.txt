@@ -1,0 +1,12 @@
+C:\Users\devvg\Desktop\projects\sql_odev\sql_odev\bin\Debug\sql_odev.exe.config
+C:\Users\devvg\Desktop\projects\sql_odev\sql_odev\bin\Debug\sql_odev.exe
+C:\Users\devvg\Desktop\projects\sql_odev\sql_odev\bin\Debug\sql_odev.pdb
+C:\Users\devvg\Desktop\projects\sql_odev\sql_odev\obj\Debug\sql_odev.csproj.AssemblyReference.cache
+C:\Users\devvg\Desktop\projects\sql_odev\sql_odev\obj\Debug\sql_odev.Form1.resources
+C:\Users\devvg\Desktop\projects\sql_odev\sql_odev\obj\Debug\sql_odev.Properties.Resources.resources
+C:\Users\devvg\Desktop\projects\sql_odev\sql_odev\obj\Debug\sql_odev.csproj.GenerateResource.cache
+C:\Users\devvg\Desktop\projects\sql_odev\sql_odev\obj\Debug\sql_odev.csproj.CoreCompileInputs.cache
+C:\Users\devvg\Desktop\projects\sql_odev\sql_odev\obj\Debug\sql_odev.exe
+C:\Users\devvg\Desktop\projects\sql_odev\sql_odev\obj\Debug\sql_odev.pdb
+C:\Users\devvg\Desktop\projects\sql_odev\sql_odev\obj\Debug\sql_odev.Form2.resources
+C:\Users\devvg\Desktop\projects\sql_odev\sql_odev\obj\Debug\sql_odev.Form3.resources
